@@ -1,5 +1,5 @@
 # Documentación Código API Google Natural Language 
-Elaborado por: `Erick Avendaño` (`erickdesrosiers`)
+Elaborado por:  (`erickdesrosiers`)
 ## Tabla de Contenido 
 - [Introducción](#introducción)  
 - [Instalación](#instalación)
